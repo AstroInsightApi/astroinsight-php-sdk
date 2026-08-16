@@ -27,7 +27,7 @@ Official, strongly-typed **PHP 8.1+ SDK** for the **Astro Insight API**. Easily 
 Install the package via Composer:
 
 ```bash
-composer require astro-insight/php-sdk
+composer require astroinsightapi/astroinsight-php-sdk
 ```
 
 ---

@@ -1,5 +1,5 @@
 {
-    "name": "astro-insight/php-sdk",
+    "name": "astroinsightapi/astroinsight-php-sdk",
     "description": "Official PHP SDK for the Astro Insight API - Astrology, Numerology, Panchang, Tarot, and Divination services.",
     "type": "library",
     "license": "MIT",
