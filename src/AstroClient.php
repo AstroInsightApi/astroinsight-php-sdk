@@ -25,7 +25,7 @@ class AstroClient
     public function __construct(
         string $clientId,
         string $clientSecret,
-        string $baseUrl = 'https://api.astroinsight.io/v1',
+        string $baseUrl = 'https://json.astroinsightapi.com/api/v1',
         string $language = 'en',
         string $ayanamsha = 'lahiri',
         ?ClientInterface $guzzleClient = null

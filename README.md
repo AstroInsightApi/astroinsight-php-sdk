@@ -42,7 +42,7 @@ use AstroInsight\AstroClient;
 $astro = new AstroClient(
     clientId: 'YOUR_CLIENT_ID',
     clientSecret: 'YOUR_CLIENT_SECRET',
-    baseUrl: 'https://api.astroinsight.io/v1', // Optional
+    baseUrl: 'https://json.astroinsightapi.com/api/v1', // Optional
     language: 'en',                             // Optional (e.g. 'hi', 'es')
     ayanamsha: 'lahiri'                         // Optional (e.g. 'raman', 'kp')
 );
